@@ -1,0 +1,11 @@
+@media screen and (min-width: 1100px) {
+    #root {
+        width: 30% !important;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1100px) {
+    #root {
+        width: 50% !important;
+    }
+}
